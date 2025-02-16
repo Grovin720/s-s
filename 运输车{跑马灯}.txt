@@ -1,10 +1,10 @@
 {
-  "spider": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar",
+  "spider": "https://raw.kkgithub.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "QQ群┃8778408",
+      "name": "春暖花开",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
